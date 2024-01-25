@@ -1,4 +1,4 @@
-## First steps with _Laravel_
+# First steps with _Laravel_
 
 ## Assignment
 
